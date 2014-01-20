@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-lwang#tdbeta.cn-Z5S mini"
+CONFIG_LOCALVERSION="-zhaochengw#tdbeta.cn-Z5Smini"
 # CONFIG_ARM_PATCH_PHYS_VIRT is not set
 CONFIG_EXPERIMENTAL=y
 CONFIG_SYSVIPC=y
